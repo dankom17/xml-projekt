@@ -1,0 +1,84 @@
+[
+      {
+        "ime": "Michael",
+        "prezime": "Jordan",
+        "godinadrafta": 1984,
+        "brojnaslova": 6,
+        "careerhigh": 69,
+        "MVP": 6
+      },
+      {
+        "ime": "LeBron",
+        "prezime": "James",
+        "godinadrafta": 2003,
+        "brojnaslova": 4,
+        "careerhigh": 61,
+        "MVP": 4
+      },
+      {
+        "ime": "Kobe",
+        "prezime": "Bryant",
+        "godinadrafta": 1996,
+        "brojnaslova": 5,
+        "careerhigh": 81,
+        "MVP": 4
+      },
+      {
+        "ime": "Tim",
+        "prezime": "Duncan",
+        "godinadrafta": 1995,
+        "brojnaslova": 5,
+        "careerhigh": 53,
+        "MVP": 2
+      },
+      {
+        "ime": "Kareem",
+        "prezime": "Abdul-Jabbar",
+        "godinadrafta": 1969,
+        "brojnaslova": 6,
+        "careerhigh": 55,
+        "MVP": 6
+      },
+      {
+        "ime": "Wilt",
+        "prezime": "Chamberlain",
+        "godinadrafta": 1959,
+        "brojnaslova": 2,
+        "careerhigh": 100,
+        "MVP": 4
+      },
+      {
+        "ime": "Hakeem",
+        "prezime": "Olajuwon",
+        "godinadrafta": 1984,
+        "brojnaslova": 2,
+        "careerhigh": 52,
+        "MVP": 1
+      },
+      {
+        "ime": "Shaquille",
+        "prezime": "O'Neal",
+        "godinadrafta": 1992,
+        "brojnaslova": 4,
+        "careerhigh": 61,
+        "MVP": 1
+      },
+      {
+        "ime": "Larry",
+        "prezime": "Bird",
+        "godinadrafta": 1978,
+        "brojnaslova": 3,
+        "careerhigh": 60,
+        "MVP": 3
+      },
+      {
+        "ime": "Bill",
+        "prezime": "Russell",
+        "godinadrafta": 1956,
+        "brojnaslova": 11,
+        "careerhigh": 37,
+        "MVP": 5
+      }
+    ]
+
+  

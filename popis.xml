@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nba>
+    <igrac id="1">
+        <ime>Bojan</ime>
+        <prezime>Bogdanović</prezime>
+        <godinadraft>2011</godinadraft>
+        <naslovi>0</naslovi>
+        <brojtimova>6</brojtimova>
+        <brojsezona>12</brojsezona>
+        <status>Aktivan</status>
+        <careerhigh>48</careerhigh>
+    </igrac>
+
+    <igrac id="2">
+        <ime>Dario</ime>
+        <prezime>Šarić</prezime>
+        <godinadraft>2014</godinadraft>
+        <naslovi>0</naslovi>
+        <brojtimova>5</brojtimova>
+        <brojsezona>9</brojsezona>
+        <status>Aktivan</status>
+        <careerhigh>32</careerhigh>
+    </igrac>
+
+    <igrac id="3">
+        <ime>Ivica</ime>
+        <prezime>Zubac</prezime>
+        <godinadraft>2016</godinadraft>
+        <naslovi>0</naslovi>
+        <brojtimova>2</brojtimova>
+        <brojsezona>9</brojsezona>
+        <status>Aktivan</status>
+        <careerhigh>32</careerhigh>
+    </igrac>
+    
+    <igrac id="4">
+        <ime>Luka</ime>
+        <prezime>Šamanić</prezime>
+        <godinadraft>2019</godinadraft>
+        <naslovi>0</naslovi>
+        <brojtimova>2</brojtimova>
+        <brojsezona>4</brojsezona>
+        <status>Aktivan</status>
+        <careerhigh>23</careerhigh>
+    </igrac>
+
+    <igrac id="5">
+        <ime>Toni</ime>
+        <prezime>Kukoč</prezime>
+        <godinadraft>1990</godinadraft>
+        <naslovi>3</naslovi>
+        <brojtimova>4</brojtimova>
+        <brojsezona>13</brojsezona>
+        <status>Umirovljen</status>
+        <careerhigh>34</careerhigh>
+    </igrac>
+
+    <igrac id="6">
+        <ime>Dražen</ime>
+        <prezime>Petrović</prezime>
+        <godinadraft>1986</godinadraft>
+        <naslovi>0</naslovi>
+        <brojtimova>2</brojtimova>
+        <brojsezona>5</brojsezona>
+        <status>Preminuo</status>
+        <careerhigh>44</careerhigh>
+    </igrac>
+
+    <igrac id="7">
+        <ime>Stojko</ime>
+        <prezime>Vranković</prezime>
+        <godinadraft>1986</godinadraft>
+        <naslovi>0</naslovi>
+        <brojtimova>3</brojtimova>
+        <brojsezona>5</brojsezona>
+        <status>Umirovljen</status>
+        <careerhigh>11</careerhigh>
+    </igrac>
+
+    <igrac id="8">
+        <ime>Dino</ime>
+        <prezime>Rađa</prezime>
+        <godinadraft>1989</godinadraft>
+        <naslovi>0</naslovi>
+        <brojtimova>1</brojtimova>
+        <brojsezona>4</brojsezona>
+        <status>Umirovljen</status>
+        <careerhigh>36</careerhigh>
+    </igrac>
+
+    <igrac id="9">
+        <ime>Žan</ime>
+        <prezime>Tabak</prezime>
+        <godinadraft>1991</godinadraft>
+        <naslovi>1</naslovi>
+        <brojtimova>4</brojtimova>
+        <brojsezona>7</brojsezona>
+        <status>Umirovljen</status>
+        <careerhigh>26</careerhigh>
+    </igrac>
+
+    <igrac id="10">
+        <ime>Bruno</ime>
+        <prezime>Šundov</prezime>
+        <godinadraft>1998</godinadraft>
+        <naslovi>0</naslovi>
+        <brojtimova>5</brojtimova>
+        <brojsezona>8</brojsezona>
+        <status>Umirovljen</status>
+        <careerhigh>17</careerhigh>
+    </igrac>
+
+    <igrac id="11">
+        <ime>Dalibor</ime>
+        <prezime>Bagarić</prezime>
+        <godinadraft>2000</godinadraft>
+        <naslovi>0</naslovi>
+        <brojtimova>1</brojtimova>
+        <brojsezona>3</brojsezona>
+        <status>Umirovljen</status>
+        <careerhigh>16</careerhigh>
+    </igrac>
+
+    <igrac id="12">
+        <ime>Gordan</ime>
+        <prezime>Giriček</prezime>
+        <godinadraft>1999</godinadraft>
+        <naslovi>0</naslovi>
+        <brojtimova>5</brojtimova>
+        <brojsezona>7</brojsezona>
+        <status>Umirovljen</status>
+        <careerhigh>26</careerhigh>
+    </igrac>
+
+    <igrac id="13">
+        <ime>Zoran</ime>
+        <prezime>Planinić</prezime>
+        <godinadraft>2003</godinadraft>
+        <naslovi>0</naslovi>
+        <brojtimova>1</brojtimova>
+        <brojsezona>3</brojsezona>
+        <status>Umirovljen</status>
+        <careerhigh>16</careerhigh>
+    </igrac>
+    
+    <igrac id="14">
+        <ime>Mario</ime>
+        <prezime>Kasun</prezime>
+        <godinadraft>2002</godinadraft>
+        <naslovi>0</naslovi>
+        <brojtimova>1</brojtimova>
+        <brojsezona>2</brojsezona>
+        <status>Umirovljen</status>
+        <careerhigh>10</careerhigh>
+    </igrac>
+
+    <igrac id="15">
+        <ime>Roko</ime>
+        <prezime>Ukić</prezime>
+        <godinadraft>2005</godinadraft>
+        <naslovi>0</naslovi>
+        <brojtimova>2</brojtimova>
+        <brojsezona>2</brojsezona>
+        <status>Umirovljen</status>
+        <careerhigh>22</careerhigh>
+    </igrac>
+
+    <igrac id="16">
+        <ime>Damjan</ime>
+        <prezime>Rudež</prezime>
+        <godinadraft>2008</godinadraft>
+        <naslovi>0</naslovi>
+        <brojtimova>3</brojtimova>
+        <brojsezona>3</brojsezona>
+        <status>Umirovljen</status>
+        <careerhigh>18</careerhigh>
+    </igrac>
+
+    <igrac id="17">
+        <ime>Damir</ime>
+        <prezime>Markota</prezime>
+        <godinadraft>2006</godinadraft>
+        <naslovi>0</naslovi>
+        <brojtimova>1</brojtimova>
+        <brojsezona>1</brojsezona>
+        <status>Igra u Europi</status>
+        <careerhigh>26</careerhigh>
+    </igrac>
+
+    <igrac id="18">
+        <ime>Mario</ime>
+        <prezime>Hezonja</prezime>
+        <godinadraft>2015</godinadraft>
+        <naslovi>0</naslovi>
+        <brojtimova>3</brojtimova>
+        <brojsezona>5</brojsezona>
+        <status>Igra u Europi</status>
+        <careerhigh>30</careerhigh>
+    </igrac>
+
+    <igrac id="19">
+        <ime>Duje</ime>
+        <prezime>Dukan</prezime>
+        <godinadraft>2016</godinadraft>
+        <naslovi>0</naslovi>
+        <brojtimova>1</brojtimova>
+        <brojsezona>1</brojsezona>
+        <status>Igra u Europi</status>
+        <careerhigh>6</careerhigh>
+    </igrac>
+
+    <igrac id="20">
+        <ime>Dragan</ime>
+        <prezime>Bender</prezime>
+        <godinadraft>2016</godinadraft>
+        <naslovi>0</naslovi>
+        <brojtimova>3</brojtimova>
+        <brojsezona>4</brojsezona>
+        <status>Igra u Europi</status>
+        <careerhigh>23</careerhigh>
+    </igrac>
+
+    <igrac id="21">
+        <ime>Ante</ime>
+        <prezime>Žižić</prezime>
+        <godinadraft>2016</godinadraft>
+        <naslovi>0</naslovi>
+        <brojtimova>1</brojtimova>
+        <brojsezona>3</brojsezona>
+        <status>Igra u Europi</status>
+        <careerhigh>23</careerhigh>
+    </igrac>
+
+
+
+
+
+
+
+
+</nba>
